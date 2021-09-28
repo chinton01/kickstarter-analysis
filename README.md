@@ -1,5 +1,5 @@
 # An Analysis of Kickstarter Campaigns
-Performing various analysis for Louise's theater funding of her play, Fever. The analysis uncovers the following:
+The purpose of this project is to performing various analysis for Louise's theater funding of her play, Fever. The analysis uncovers the following:
 # Important Findings 
 1. Louise's goal of funding is $10,000 which is 2x the average successful Kickstarter goal. [data-1-1-3-Starterbook](path/to/DestriptiveStatistics.xlxs)
 -Comparing Louise's prefered budget goal to both the U.S and G.B. average successful campaign indicated the goal needed to be less than 4,000 GBP/5,400USD.
